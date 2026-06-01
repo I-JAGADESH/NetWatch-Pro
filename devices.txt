@@ -1,0 +1,6 @@
+Google DNS,8.8.8.8
+Cloudflare,1.1.1.1
+OpenDNS,208.67.222.222
+# Router,192.168.1.1
+# Local Server,10.0.0.5
+Fake Device,192.168.99.99
